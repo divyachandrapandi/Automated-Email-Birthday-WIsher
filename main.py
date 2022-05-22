@@ -3,8 +3,8 @@ from random import *
 import smtplib
 import pandas
 
-MY_EMAIL = "divya2pythondeveloper@gmail.com"
-MY_PASSWORD = "xfnleymkhjcjmqkb"
+MY_EMAIL = "gmail.com"
+MY_PASSWORD = "appp password"
 
 # TODO - Random letter format
 letters = ['letter_1', 'letter_2', 'letter_3']  # string to append in file to open
